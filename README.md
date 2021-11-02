@@ -1,6 +1,6 @@
-### Hi there 😄 !
+<!-- ### Hi there 😄 !
 
-I am an aspiring developer 👨🏿‍💻! I am currently fascinated in **VR**
+I am an aspiring developer 👨🏿‍💻! I am currently fascinated in **VR** -->
 
 <!--
 **createWonder/createWonder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
